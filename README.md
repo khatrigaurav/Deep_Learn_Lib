@@ -4,12 +4,12 @@ A custom deep learning library.
 Functionalities:
 - [x] Dataloader Class for loading data and batch handling
 - [x] Loss Function Class <br>
-      - [ ] Hinge Loss
-      - [ ] Cross Entropy Loss
+      -  Hinge Loss <br>
+      - Cross Entropy Loss
 
-- [x] Activation Classes
-      - [x] RELU
-      - [x] Sigmoid
+- [x] Activation Classes <br>
+      -  RELU <br>
+      -  Sigmoid
 - [x] Sequential Class for Dense Layer Creation
 
 Additional Updates:
