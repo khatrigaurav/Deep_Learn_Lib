@@ -3,7 +3,7 @@ A custom deep learning library.
 
 Functionalities:
 - [x] Dataloader Class for loading data and batch handling
-- [x] Loss Function Class
+- [x] Loss Function Class <br>
       - [x] Hinge Loss
       - [x] Cross Entropy Loss
 
