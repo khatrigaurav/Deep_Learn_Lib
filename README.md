@@ -1,7 +1,7 @@
-# Deep_Learn_Lib
+## Deep_Learn_Lib
 A custom deep learning library.
 
-Functionalities:
+## Functionalities:
 - [x] Dataloader Class for loading data and batch handling
 - [x] Loss Function Class <br>
       -  Hinge Loss <br>
