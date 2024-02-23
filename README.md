@@ -14,3 +14,7 @@ Functionalities:
 
 Additional Updates:
 1) Weight Initialization (Normal and Zero Initialization)
+
+
+## Result 1: Output of training Pipeline for MNIST classification
+![img4](/output.png)
